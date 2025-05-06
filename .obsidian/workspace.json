@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "03bad057974cd5b9",
+            "id": "b6d2e4dc5dc39e42",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "日記/2025-05-06.md",
-                "bFile": "日記/2025-05-06.md",
+                "aFile": "python/pythonのraise関数ってなんだ.md",
+                "bFile": "python/pythonのraise関数ってなんだ.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 2025-05-06"
+              "title": "Diff: pythonのraise関数ってなんだ"
             }
           }
         ],
@@ -253,12 +253,12 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "03bad057974cd5b9",
+  "active": "b6d2e4dc5dc39e42",
   "lastOpenFiles": [
     "python/pythonのraise関数ってなんだ.md",
+    "日記/2025-05-05.md",
     "日記/2025-05-07.md",
     "日記/2025-05-03.md",
-    "日記/2025-05-05.md",
     "日記/2025-05-06.md",
     "日記/2025-05-02.md",
     "日記/2025-05-04.md",
