@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "11e3bb806ce6ef14",
+    "type": "split",
+    "children": [
+      {
+        "id": "8896da86e8522f33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6be1ac3beb6fe606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日記/2025-05-06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-06"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9cdbbe719e16eb2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e3a48df8fd0cd474",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "3496ccd539b6c9c9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "c8bc95cd9283b9ea",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "eb13194a1d90c533",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7cf1e4b20e217100",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "41df1b613fe74c95",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "日記/2025-05-06.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "183f30dce81255c8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "日記/2025-05-06.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "a158e9c0d800fbb8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "日記/2025-05-06.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "e8d2a7a27e032297",
+        "type": "leaf",
+        "state": {
+          "type": "Strange New Worlds",
+          "state": {},
+          "icon": "file-digit",
+          "title": "Strange New Worlds"
+        }
+      },
+      {
+        "id": "0f38f820d4396605",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-memos:Thino": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false,
+      "daily-notes-editor:Open Daily Note Editor": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0f38f820d4396605",
+  "lastOpenFiles": [
+    "1.カンバン　管理ボート.md",
+    "日記/2025-05-06.md"
+  ]
+}

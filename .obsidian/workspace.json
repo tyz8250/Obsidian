@@ -24,27 +24,7 @@
             }
           },
           {
-            "id": "08822215c787045f",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "1.カンバン　管理ボート.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "1.カンバン　管理ボート"
-            }
-          },
-          {
-            "id": "80b7658198b9f26b",
+            "id": "03bad057974cd5b9",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -58,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,8 +169,8 @@
             "state": {
               "type": "Strange New Worlds",
               "state": {},
-              "icon": "file-digit",
-              "title": "Strange New Worlds"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
             }
           },
           {
@@ -207,10 +187,14 @@
             "id": "95cd132f65b8e9ef",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "ノートレビューのキュー"
+              "type": "markdown",
+              "state": {
+                "file": "日記/2025-05-06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-06"
             }
           },
           {
@@ -219,8 +203,28 @@
             "state": {
               "type": "timer-view",
               "state": {},
-              "icon": "timer",
-              "title": "Timer"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
+            }
+          },
+          {
+            "id": "57a1d26e6abfb99d",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
+          },
+          {
+            "id": "329532ba9e2bf997",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "ノートレビューのキュー"
             }
           }
         ],
@@ -228,37 +232,39 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485
+    "width": 622
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
+      "daily-notes:今日のデイリーノートを開く": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "pomodoro-timer:Toggle timer panel": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:カンバンボードを新規作成": false,
-      "pomodoro-timer:Toggle timer panel": false,
       "obsidian-memos:Thino": false,
-      "daily-notes:今日のデイリーノートを開く": false,
       "obsidian-spaced-repetition:フラッシュカードのレビュー": false,
       "templater-obsidian:Templater": false,
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "80b7658198b9f26b",
+  "active": "03bad057974cd5b9",
   "lastOpenFiles": [
-    "日記/2025-05-06.md",
-    "日記/2025-05-02.md",
+    "python/pythonのraise関数ってなんだ.md",
+    "日記/2025-05-07.md",
     "日記/2025-05-03.md",
     "日記/2025-05-05.md",
+    "日記/2025-05-06.md",
+    "日記/2025-05-02.md",
+    "日記/2025-05-04.md",
     "1.カンバン　管理ボート.md",
     "日記/2025-04-26.md",
     "日記/2025-04-30.md",
-    "日記/2025-05-04.md",
     "日記/1週間の振り返り（20250411-0419）.md",
     "その他/[[20代のやっておくこと、失敗したことをまとめてみては？.md",
     "git/gitの基礎知識.md",
@@ -277,8 +283,6 @@
     "その他/CICDのロードマップ.md",
     "git/gitメモ.md",
     "Pythonでのポートフォリオ.md",
-    "Docker　メモ.md",
-    "createElement.md",
     "その他",
     "画像保存/ワーキングメモリーを意識した技術書の効果的な読み方_1736593517012.png",
     "画像保存/ワーキングメモリー 勉強法.png",
