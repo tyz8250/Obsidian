@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "e677f24ef8e84e0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee22a65a58485b2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c98b5746953453fa",
+            "type": "leaf",
+            "state": {
+              "type": "daily-note-editor-view",
+              "state": {
+                "selectionMode": "daily",
+                "target": "",
+                "timeField": "mtime",
+                "selectedRange": "all",
+                "customRange": null
+              },
+              "icon": "calendar",
+              "title": "Daily Notes"
+            }
+          },
+          {
+            "id": "08822215c787045f",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "1.カンバン　管理ボート.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "1.カンバン　管理ボート"
+            }
+          },
+          {
+            "id": "80b7658198b9f26b",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "日記/2025-05-06.md",
+                "bFile": "日記/2025-05-06.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 2025-05-06"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9abce1e41eb621db",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab3b128ced0355c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a8ba1b290c26a46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "18b62b45d5eda45c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "4b4af7988aeb99f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "87ecf8980397699b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c64d0ae9a11ce7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d23b86293e38fc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "プログラミングと英語を同時に学ぶ効率的な方法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "プログラミングと英語を同時に学ぶ効率的な方法へのバックリンク"
+            }
+          },
+          {
+            "id": "dd3e80bf72a8cf3c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "プログラミングと英語を同時に学ぶ効率的な方法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "プログラミングと英語を同時に学ぶ効率的な方法からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "c607863ec4e168d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "78e202544da70afc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "プログラミングと英語を同時に学ぶ効率的な方法.md"
+              },
+              "icon": "lucide-list",
+              "title": "プログラミングと英語を同時に学ぶ効率的な方法のアウトライン"
+            }
+          },
+          {
+            "id": "e46099f51b30ad21",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
+          },
+          {
+            "id": "d21fee696e1d7fe8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "95cd132f65b8e9ef",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "ノートレビューのキュー"
+            }
+          },
+          {
+            "id": "ee6c6f6d3954fd8b",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 485
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "obsidian-memos:Thino": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "obsidian-spaced-repetition:フラッシュカードのレビュー": false,
+      "templater-obsidian:Templater": false,
+      "daily-notes-editor:Open Daily Note Editor": false
+    }
+  },
+  "active": "80b7658198b9f26b",
+  "lastOpenFiles": [
+    "日記/2025-05-06.md",
+    "日記/2025-05-02.md",
+    "日記/2025-05-03.md",
+    "日記/2025-05-05.md",
+    "1.カンバン　管理ボート.md",
+    "日記/2025-04-26.md",
+    "日記/2025-04-30.md",
+    "日記/2025-05-04.md",
+    "日記/1週間の振り返り（20250411-0419）.md",
+    "その他/[[20代のやっておくこと、失敗したことをまとめてみては？.md",
+    "git/gitの基礎知識.md",
+    "git",
+    "その他/TIL_github.md",
+    "Welcome.md",
+    "python/日時の取得.md",
+    "画面遷移/`NavHost`.md",
+    "画面遷移/rememberNavController：Composeナビゲーションの司令塔！.md",
+    "画面遷移/Jetpack Compose を用いて画面遷移を行う.md",
+    "その他/作りたいWebアプリ.md",
+    "スキル・転職/転職に向けた情報取集.md",
+    "Docker/ポートとlocalhostの分かりやすい解説.md",
+    "その他/お小遣い管理アプリ要件定義書.pdf",
+    "その他/お小遣い管理アプリ.md",
+    "その他/CICDのロードマップ.md",
+    "git/gitメモ.md",
+    "Pythonでのポートフォリオ.md",
+    "Docker　メモ.md",
+    "createElement.md",
+    "その他",
+    "画像保存/ワーキングメモリーを意識した技術書の効果的な読み方_1736593517012.png",
+    "画像保存/ワーキングメモリー 勉強法.png",
+    "無題のフォルダ",
+    "templeta",
+    "スキル・転職",
+    "勉強法/無題のフォルダ",
+    "Pasted image 20250126190623.png",
+    "無題のファイル.canvas",
+    "日記",
+    "Docker",
+    "勉強法",
+    "無題のファイル 1.canvas",
+    "スクリーンショット 2024-12-29 10.53.54.png",
+    "Untitled.canvas",
+    "Pasted image 20240831230911.png"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "基本": "",
+      "基本 (文字入力解答)": "",
+      "基本 (裏表反転カード付き)": "",
+      "基本 (裏表反転カード追加可能)": "",
+      "画像穴埋め問題": "",
+      "穴埋め問題": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "基本": "表面",
+      "基本 (文字入力解答)": "表面",
+      "基本 (裏表反転カード付き)": "表面",
+      "基本 (裏表反転カード追加可能)": "表面",
+      "画像穴埋め問題": "穴埋め箇所",
+      "穴埋め問題": "Text"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "Excalidraw": "",
+      "Note": "",
+      "python": "",
+      "エラー解除": "",
+      "画面遷移": "",
+      "英語を学ぶ": "",
+      "python/エラー記録": "",
+      "python/基本文法": ""
+    },
+    "FOLDER_TAGS": {
+      "Excalidraw": "",
+      "Note": "",
+      "python": "",
+      "エラー解除": "",
+      "画面遷移": "",
+      "英語を学ぶ": "",
+      "python/エラー記録": "",
+      "python/基本文法": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Scan Directory": "",
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    },
+    "IGNORED_FILE_GLOBS": [
+      "**/*.excalidraw.md"
+    ]
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "2024-12-26.md": "43255684f9b4765735a415e9900b8f65",
+    "gitの基礎知識.md": "6cf4d14d9143490724821d3883cc7b17",
+    "英語を学ぶ/英語を学ぶ方法（Gensparkでの検索結果）.md": "ba12275e965a3ad9d27ee0be7cc38154",
+    "英語を学ぶ/プログラミングと英語を同時に学ぶ効率的な方法.md": "9a6d4bd8766a8cde601c28d3e3951b3f",
+    "画面遷移/まとめ　Jetpack Compose のナビゲーションを司る！NavController 入門ガイド.md": "443ea43ad896cc0069e3225bd28da6e5",
+    "画面遷移/rememberNavController：Composeナビゲーションの司令塔！.md": "55968a37569c25b38b9ce932765ffac8",
+    "画面遷移/`NavHost`.md": "fa8c82a7cb56b57ded8f7f8999be8ee3",
+    "画面遷移/MainActivity.kt と SettingsScreen.kt を使った画面遷移の実装.md": "2c3b4109cb9c19842e0d7daca313fd64",
+    "画面遷移/Jetpack Compose を用いて画面遷移を行う.md": "ff0d4465d9a1a0edf11c3be0ca4cb9b9",
+    "再帰のコードコメント比較.md": "e1e90ab70622163ab22c582a529bac62",
+    "python/基本文法/ASCII値の扱いについて.md": "794259a85703969939fe2e3f774e020e",
+    "Welcome.md": "5dce4937496ad2d20178a7578f1a1368",
+    "Note/相談を受けたときに意識していること.md": "a8b0a49b7d8a7b2d080fbfa4566764fd",
+    "Excalidraw/使ってみた.md": "f5d35d8b790caf96da38bc8d57795a1c",
+    "Excalidraw/Drawing 2024-09-29 21.51.10.md.md": "2ed278ec05f236a925a551ff44e3894d",
+    "2024-12-02.md": "441effb1fdfb8f0f57fddc845c53b03e",
+    "**Excalibrainを日本語に直した.md": "b399a8ae9f899029035c768dcfdd9df6"
+  },
+  "fields_dict": {
+    "基本": [
+      "表面",
+      "裏面"
+    ],
+    "基本 (文字入力解答)": [
+      "表面",
+      "裏面"
+    ],
+    "基本 (裏表反転カード付き)": [
+      "表面",
+      "裏面"
+    ],
+    "基本 (裏表反転カード追加可能)": [
+      "表面",
+      "裏面",
+      "任意の入力で反転カード追加"
+    ],
+    "画像穴埋め問題": [
+      "穴埋め箇所",
+      "画像",
+      "ヘッダー",
+      "裏面追記",
+      "コメント"
+    ],
+    "穴埋め問題": [
+      "Text",
+      "裏面追記"
+    ]
+  }
+}
